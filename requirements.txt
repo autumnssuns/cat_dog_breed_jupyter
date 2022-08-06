@@ -7,3 +7,4 @@ pillow
 IPython
 ipywidgets
 ipyfilechooser
+imageio
