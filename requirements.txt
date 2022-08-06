@@ -3,7 +3,7 @@ matplotlib
 numpy
 tensorflow
 matplotlib
-PIL
+pillow
 IPython
 ipywidgets
 ipyfilechooser
