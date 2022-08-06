@@ -1,0 +1,9 @@
+jupyter-book>=0.7.0b
+matplotlib
+numpy
+tensorflow
+matplotlib
+PIL
+IPython
+ipywidgets
+ipyfilechooser
