@@ -27,6 +27,11 @@ jobs:
         python-version: 3.8
         cache: 'pip'
 
+    - uses: actions/cache@v2
+      with:
+        path: ${{ env.pythonLocation }}
+        key: ${{ env.pythonLocation }}-${{ hashFiles('setup.py') }}-${{ hashFiles('dev-requirements.txt') }}
+
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
