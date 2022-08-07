@@ -1,1 +1,1 @@
-web: voila --port=$PORT --Voila.ip=0.0.0.0 --no-browser --enable_nbextensions=True --strip_sources=False runner.ipynb
+web: voila --port=$PORT --Voila.ip=0.0.0.0 --no-browser --enable_nbextensions=True runner.ipynb
