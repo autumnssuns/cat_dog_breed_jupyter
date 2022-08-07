@@ -1,9 +1,7 @@
-jupyter-book>=0.7.0b
 voila
 matplotlib
 numpy
 tensorflow-cpu
-matplotlib
 pillow
 IPython
 ipywidgets
