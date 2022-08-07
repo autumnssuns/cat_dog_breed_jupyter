@@ -2,7 +2,7 @@ jupyter-book>=0.7.0b
 voila
 matplotlib
 numpy
-tensorflow
+tensorflow-cpu
 matplotlib
 pillow
 IPython
