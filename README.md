@@ -1,4 +1,7 @@
 # Cat and dog breeds classifier (Transferred EfficientNetV2B0)
+
+[![Heroku](https://img.shields.io/badge/Deployed-DDD?label=Heroku&labelColor=430098&style=for-the-&logo=heroku&logoColor=white)](https://jupyter-applications.herokuapp.com/)
+
 Jupyter Notebook GUI application using IPython widgets to predict cat and dog breeds.
 
 ## Running the classifier GUI
